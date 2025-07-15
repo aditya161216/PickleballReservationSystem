@@ -1,0 +1,36 @@
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+roger rax;A;0;Game 
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+officer1;b;1;Open Play with 
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+rax;B;1;Game 
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
+nouser;noskill;1;Free
